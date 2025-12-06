@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ハッピーシンセサイザ",
+  "base_artist": "EasyPop",
+  "createdAt": "2025-12-06T14:08:07.857469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop feat. 巡音ルカ & GUMI",
+      "has_synced": true,
+      "path": "select/01_ハッピーシンセサイザ_EasyPop_feat._巡音ルカ_&_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop",
+      "has_synced": true,
+      "path": "select/02_ハッピーシンセサイザ_EasyPop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_ハッピーシンセサイザ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_ハッピーシンセサイザ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop feat. 巡音ルカ & GUMI",
+      "has_synced": true,
+      "path": "select/05_ハッピーシンセサイザ_EasyPop_feat._巡音ルカ_&_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ feat. 巡音ルカ, GUMI",
+      "artist": "EasyPop",
+      "has_synced": true,
+      "path": "select/06_ハッピーシンセサイザ_feat._巡音ルカ,_GUMI_EasyPop.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop",
+      "has_synced": true,
+      "path": "select/07_ハッピーシンセサイザ_EasyPop.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "Pastel*Palettes",
+      "has_synced": true,
+      "path": "select/08_ハッピーシンセサイザ_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫",
+      "has_synced": true,
+      "path": "select/09_ハッピーシンセサイザ_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop",
+      "has_synced": true,
+      "path": "select/10_ハッピーシンセサイザ_EasyPop.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "530",
+      "has_synced": true,
+      "path": "select/11_ハッピーシンセサイザ_530.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop feat. 巡音ルカ & GUMI",
+      "has_synced": true,
+      "path": "select/12_ハッピーシンセサイザ_EasyPop_feat._巡音ルカ_&_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop(BETTI) feat. 巡音ルカ・GUMI",
+      "has_synced": false,
+      "path": "select/13_ハッピーシンセサイザ_EasyPop(BETTI)_feat._巡音ルカ・GUMI.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "Pastel*Palettes",
+      "has_synced": true,
+      "path": "select/14_ハッピーシンセサイザ_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "GUMI/巡音ルカ/EasyPop",
+      "has_synced": true,
+      "path": "select/15_ハッピーシンセサイザ_GUMI_巡音ルカ_EasyPop.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ハッピーシンセサイザ",
+      "artist": "Kashitaro Ito",
+      "has_synced": true,
+      "path": "select/16_ハッピーシンセサイザ_Kashitaro_Ito.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッピーシンセサイザ",
+      "artist": "EasyPop",
+      "has_synced": false,
+      "path": "select/pl_01_ハッピーシンセサイザ_EasyPop.txt"
+    }
+  ]
+}
